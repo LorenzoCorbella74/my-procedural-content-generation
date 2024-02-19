@@ -1,3 +1,8 @@
 # my-procedural-content-generation
+![img](./doc/procedural.png)
+A basic test for procedural content generation based on this [video tutorial]().
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/LorenzoCorbella74/my-procedural-content-generation)
+The example provides:
+- basic collision system
+- camera management
+- grid optimisation (render only tiles in camera)
